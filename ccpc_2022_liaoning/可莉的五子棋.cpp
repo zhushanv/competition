@@ -1,3 +1,4 @@
+//题目链接https://ac.nowcoder.com/acm/contest/120712/B
 #include<bits/stdc++.h>
 // #define ll long long
 // #define int long long
